@@ -1,0 +1,41 @@
+
+gameplay.png
+size: 1024, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Katana
+  rotate: false
+  xy: 143, 123
+  size: 141, 111
+  orig: 141, 111
+  offset: 0, 0
+  index: -1
+ninja
+  rotate: false
+  xy: 2, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+owlboy3
+  rotate: false
+  xy: 2, 236
+  size: 910, 512
+  orig: 910, 512
+  offset: 0, 0
+  index: -1
+samurai2
+  rotate: false
+  xy: 2, 84
+  size: 139, 150
+  orig: 139, 150
+  offset: 0, 0
+  index: -1
+shuriken
+  rotate: false
+  xy: 914, 648
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
